@@ -1,7 +1,5 @@
 package Entities;
 
-import java.lang.constant.Constable;
-
 public class Avion {
 
     private final String marque, modele;
