@@ -44,4 +44,9 @@ public class Reservation {
     public void setEtat(String etat) {
         this.etat = etat;
     }
+
+    public void annulerReservation() {
+        this.etat = "ANNULER";
+    }
+
 }

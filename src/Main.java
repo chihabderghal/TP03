@@ -35,5 +35,7 @@ public class Main {
 
         System.out.println("Le nombre totale de vols : " + getNombreTotalVol());
 
+        r6.annulerReservation();
+
     }
 }
